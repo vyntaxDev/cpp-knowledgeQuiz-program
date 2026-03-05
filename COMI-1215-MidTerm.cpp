@@ -1,7 +1,3 @@
-// Vinicius Coimbra
-// Professor Thibeault
-// COMI 1215 Intro to C++: Midterm
-// 3 March 2026
 
 /* This program quizzes a user on basic C++ knowledge in a multiple choice format.
 *  10 questions are asked and each are worth 10pts.
@@ -334,4 +330,5 @@ int main()
     }
 
     return 0;
+
 }
